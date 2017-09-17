@@ -1,0 +1,17 @@
+###
+# osx files
+###
+.DS_Store
+.localized
+
+###
+# system SWAP, TMP and BACKUP files
+###
+*~
+*.swp
+*.bak
+
+###
+# orig file
+###
+*.orig

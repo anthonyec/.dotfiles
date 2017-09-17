@@ -1,0 +1,43 @@
+[user]
+	name = Anthony Cossins
+	email = anthonyecossins@gmail.com
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+[push]
+  default = simple
+[alias]
+  a = add
+  aa = add .
+  co = checkout
+  c = commit
+  cm = commit -m
+  ca = commit -a --amend
+  cp = cherry-pick
+  cb = checkout -b
+  rc = rebase --continue
+  rh = "!f() { git rebase -i HEAD~$1; }; f"
+  p = push
+  pl = pull
+  pf = push -f
+  pu = push --set-upstream origin
+  d = diff
+  s = status
+  st = status --short --branch
+  b = branch
+  plum = pull upstream master
+  rum = pull --rebase upstream master
+  rom = pull --rebase origin master
+  sur = submodule update --remote
+  l = log --pretty=format:"%C(green)%h%C(bold)%d\\ %Creset%s%C(white)\\ [%cn]" --decorate --numstat
+  l1 = log --pretty=oneline
+  fuck = reset HEAD^
+  mt = mergetool --tool=opendiff
+
+[core]
+  editor = vim
+  autocrlf = input
+  # pager = cat
+# [merge]
+  # tool = opendiff
