@@ -16,6 +16,8 @@
 	<integer>0</integer>
 	<key>AppleSmoothFixedFontsSizeThreshold</key>
 	<integer>1</integer>
+	<key>AppleWindowTabbingMode</key>
+	<string>manual</string>
 	<key>AutoHideTmuxClientSession</key>
 	<false/>
 	<key>CheckTestRelease</key>
@@ -30398,11 +30400,11 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>630 317 606 456 0 0 2560 1418 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>867 832 796 473 0 0 2560 1418 </string>
+	<string>531 228 796 473 0 0 1440 878 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
 	<string>433 162 592 584 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>336 229 1914 1054 0 0 2560 1418 </string>
+	<string>0 4 1440 874 0 0 1440 878 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -30469,13 +30471,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.99969691038131714</real>
+				<real>1</real>
 				<key>Color Space</key>
-				<string>Calibrated</string>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.97674846649169922</real>
+				<real>0.88165453753088074</real>
 				<key>Red Component</key>
-				<real>0.84102153778076172</real>
+				<real>0.2146759033203125</real>
 			</dict>
 			<key>Ansi 13 Color</key>
 			<dict>
@@ -30527,13 +30529,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.99951821565628052</real>
+				<real>1</real>
 				<key>Color Space</key>
-				<string>Calibrated</string>
+				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.9296729564666748</real>
+				<real>0.71657767954270501</real>
 				<key>Red Component</key>
-				<real>0.76380503177642822</real>
+				<real>0.015350341796875</real>
 			</dict>
 			<key>Ansi 5 Color</key>
 			<dict>
@@ -34480,7 +34482,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-08-14T08:42:13Z</date>
+	<date>2017-10-10T09:33:11Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -34548,7 +34550,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.1.beta.6</string>
+	<string>3.1.2</string>
 	<key>kCPFavoritesUserDefaultsKey</key>
 	<array>
 		<data>
