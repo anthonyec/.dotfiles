@@ -1,0 +1,89 @@
+{
+	"added_words":
+	[
+		"visualisation",
+		"Laravel",
+		"internet",
+		"offline",
+		"backend",
+		"Redux",
+		"app",
+		"blog",
+		"config",
+		"icns",
+		"selfies",
+		"refactored",
+		"bunyan",
+		"func",
+		"darwin",
+		"fullscreen",
+		"spam",
+		"plist",
+		"bigscreen",
+		"autolaunch",
+		"visualisations",
+		"namespace"
+	],
+	"animation_enabled": false,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules/",
+		"dist/",
+		".build/"
+	],
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"default_line_ending": "unix",
+	"drag_text": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Inconsolata",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Color Highlighter",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"preview_on_click": true,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"show_definitions": false,
+	"show_full_path": true,
+	"show_tab_close_buttons": true,
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"wide_caret": true
+}
